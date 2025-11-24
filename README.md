@@ -32,17 +32,19 @@ I am myself learning 5 questions a day and will add those 5 questions a day in t
 
 2. ### What is the purpose of Doctype in HTML?
 
-   The Doctype declaration specifies the type of document being used and tell the web browser how to interpret the pages content. It is located at the top of the HTML document.
+   The purpose of <!DOCTYPE html> in HTML is to tell the browser which version of HTML your webpage is written in, so the browser can render the page correctly.
+   <!DOCTYPE html>
+   Doctype = tells browser the HTML version + ensures proper rendering.
 
-3. ### What is semantic HTML?
+4. ### What is semantic HTML?
 
    Semantic HTML uses specific HTML elements to provide additional information about the structure and content of the page, making it more accessible and easy to read.
 
-4. ### What are different types of list in HTML?
+5. ### What are different types of list in HTML?
 
    There are 3 types of list in HTML. They are Ordered list, unordered list and definition list.
 
-5. ### What is the difference between div element and span element?
+6. ### What is the difference between div element and span element?
    The div element is a block-level element that is used to group and organize other HTML elements while span element is an inline-element that is used to apply style or attribute to a specific part of a block-level element.
 
 ## Day 2
